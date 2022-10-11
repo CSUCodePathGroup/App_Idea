@@ -70,5 +70,6 @@ Prompts the user to enter a task or a chore along with the date and time that th
 ## Wireframes
 
 [Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+![IMG-0004](https://user-images.githubusercontent.com/111332329/194975566-d8705d03-fec4-4bb0-b33e-dbb3d71e0f22.jpg)
+
 
