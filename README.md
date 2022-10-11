@@ -31,7 +31,7 @@ Prompts the user to enter a task or a chore along with the date and time that th
 * User can open app and enter a reminder with a date and time associated with it.
 * Application can send a pop notification/ alarm when the date and time are satisfied.
 * Application automatically deletes reminder when the date and time are satisfied.
-* A log fragment acn be seen for a list of reminders and another for adding a new reminder.
+* A log fragment can be seen for a list of reminders and another for adding a new reminder.
 * User can manually delete reminder if they see no need for it.
 * Cancel button on all screens to return to the list of reminders.
 
