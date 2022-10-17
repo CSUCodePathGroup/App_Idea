@@ -32,20 +32,20 @@ Prompts the user to enter a task or a chore along with the date and time that th
 * [X] Date activity.
 * [X] Reminder activity.
 * [X] Database created for the app.
-* Application can send a pop notification/ alarm when the date and time are satisfied.
-* Application automatically deletes reminder when the date and time are satisfied.
-* A log fragment can be seen for a list of reminders and another for adding a new reminder.
-* User can manually delete reminder if they see no need for it.
-* Cancel button on all screens to return to the list of reminders.
+* [ ] Application can send a pop notification/ alarm when the date and time are satisfied.
+* [ ] Application automatically deletes reminder when the date and time are satisfied.
+* [ ] A log fragment can be seen for a list of reminders and another for adding a new reminder.
+* [ ] User can manually delete reminder if they see no need for it.
+* [ ] Cancel button on all screens to return to the list of reminders.
 
 **Stretch Features**
 
-* Animations for manually deleting reminders.
-* Fancy designs for the list of reminders.
-* Pop up activities instead of multiple screen activities.
-* User can add priorities to their reminders.
-* User can edit the date or time of their reminder.
-* Cancel button on all screens to return to the list of reminders.
+* [ ] Animations for manually deleting reminders.
+* [ ] Fancy designs for the list of reminders.
+* [ ] Pop up activities instead of multiple screen activities.
+* [ ] User can add priorities to their reminders.
+* [ ] User can edit the date or time of their reminder.
+* [ ] Cancel button on all screens to return to the list of reminders.
 
 ### 2. Screen Archetypes
 
