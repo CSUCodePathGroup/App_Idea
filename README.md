@@ -28,9 +28,7 @@ Prompts the user to enter a task or a chore along with the date and time that th
 
 **Required Features**
 
-* [X] Time activity.
-* [X] Date activity.
-* [X] Reminder activity.
+* [X] Activities created for app functionality.
 * [X] Database created for the app.
 * [ ] Application can send a pop notification/ alarm when the date and time are satisfied.
 * [ ] Application automatically deletes reminder when the date and time are satisfied.
